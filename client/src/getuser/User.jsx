@@ -30,7 +30,7 @@ const User = () => {
     }
   return (
     <div className="userTable">
-        <h3 className='h3'>virudhunagar cricket player</h3><hr />
+        <h3 className='h3'>Contact Details</h3><hr />
         <table className='table table-bordered'>
             <thead>
                 <tr>
